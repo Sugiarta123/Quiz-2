@@ -1,5 +1,10 @@
 Anggota Kelompok:
 
-I Putu Gede Sugiarta (230030182)
-I Kadek Nanda Kusuma (230030196)
-Nyoman Wira Raja (230030419)
+NIM     : (230030182)
+Nama    : I Putu Gede Sugiarta 
+
+NIM     : (230030196)
+Nama    : I Kadek Nanda Kusuma
+
+NIM     : (230030419)
+Nama    : Nyoman Wira Raja
